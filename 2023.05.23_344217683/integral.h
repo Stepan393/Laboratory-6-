@@ -1,0 +1,1 @@
+double integral(double (*func_f)(double), double a, double b, double eps2);
